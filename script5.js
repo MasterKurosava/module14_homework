@@ -1,3 +1,5 @@
+//РАБОТА С КЛАССАМИ
+console.log('<!-- Задание5 -->');
 class Device{
     constructor([electro,shop]){
         this.electro=electro;
